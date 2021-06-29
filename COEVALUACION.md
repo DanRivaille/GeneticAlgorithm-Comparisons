@@ -1,5 +1,15 @@
-# Intregrantes
+# Intregrante
+Dan Santos
 
- Nombre             |   Aspecto positivo            |   Aspecto negativo    |   % participación     
---------------------|-------------------------------|-----------------------|---------------------
-Dan Santos     | Responsable | Habla poco |   100% 
+|   Aspecto positivo            |   Aspecto negativo    |   % participación     |
+|-------------------------------|-----------------------|-----------------------|
+|         Responsable           |       Habla poco      |           100%        |
+
+
+
+
+|Asistencia y puntualidad|Integración|Responsabilidad|Contribución|Resolución de conflictos|
+|------------------------|-----------|---------------|------------|------------------------|
+|            +0          |    +0     |       +0      |     +0     |          +0            |
+
+
